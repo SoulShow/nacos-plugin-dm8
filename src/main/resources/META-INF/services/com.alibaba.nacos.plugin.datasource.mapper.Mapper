@@ -1,0 +1,9 @@
+com.dataSource.plugin.impl.dm.ConfigInfoGrayMapperByDm
+com.dataSource.plugin.impl.dm.ConfigInfoBetaMapperByDm
+com.dataSource.plugin.impl.dm.ConfigInfoMapperByDm
+com.dataSource.plugin.impl.dm.ConfigInfoTagMapperByDm
+com.dataSource.plugin.impl.dm.ConfigTagsRelationMapperByDm
+com.dataSource.plugin.impl.dm.HistoryConfigInfoMapperByDm
+com.dataSource.plugin.impl.dm.TenantInfoMapperByDm
+com.dataSource.plugin.impl.dm.TenantCapacityMapperByDm
+com.dataSource.plugin.impl.dm.GroupCapacityMapperByDm
