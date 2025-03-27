@@ -289,14 +289,10 @@ DROP TABLE IF EXISTS users;
 
 CREATE TABLE users (
     username VARCHAR2(50) NOT NULL,
-    "password" VARCHAR2(500) NOT NULL,
+    password VARCHAR2(500) NOT NULL,
     enabled SMALLINT NOT NULL,
     PRIMARY KEY (username)
 );
 COMMENT ON COLUMN users.username IS 'username';
-COMMENT ON COLUMN users."password" IS 'password';
+COMMENT ON COLUMN users.password IS 'password';
 COMMENT ON COLUMN users.enabled IS 'enabled';
-
-
-
-SET FOREIGN_KEY_CHECKS = 1;
