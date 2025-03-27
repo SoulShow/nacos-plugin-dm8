@@ -44,6 +44,9 @@ db.pool.config.driverClassName=dm.jdbc.driver.DmDriver
 ## 参与贡献
 
 我们欢迎所有形式的贡献，如果您有任何改进建议或功能扩展，请提交 Pull Request。如果觉得满意可以打赏一下。
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/a635b5e0-e951-4d15-9acd-2bbd4b69da9a" />
+
+
 ## 开源协议
 
 本项目采用 Apache License 2.0 开源协议 - 详情请参见 [LICENSE](LICENSE) 文件。
