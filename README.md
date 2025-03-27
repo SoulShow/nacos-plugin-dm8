@@ -49,4 +49,4 @@ db.pool.config.driverClassName=dm.jdbc.driver.DmDriver
 
 ## 开源协议
 
-本项目采用 Apache License 2.0 开源协议 - 详情请参见 [LICENSE](LICENSE) 文件。
+本项目采用 Apache License 2.0 开源协议。
